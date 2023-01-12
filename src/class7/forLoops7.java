@@ -15,7 +15,9 @@ public class forLoops7 {
                     System.out.println(i + "*" + numberWeWannaMakeTableOf + " equals to " + (i * numberWeWannaMakeTableOf));
                 }
             }else {
-                System.out.println("please enter a positive number");
+                System.out.println("enter a positive number");
+                System.out.println("Please and thank you");
+
             }
         }
     }
