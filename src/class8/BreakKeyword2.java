@@ -8,7 +8,9 @@ public class BreakKeyword2 {
 
         while (summer){
             if (temp<=100){
-                System.out.println("I love summer");
+                System.out.print("I love summer");
+                System.out.println(" Because the temperature is "+temp);
+
             }else {
                 System.out.println("It's too hot now");
                 break;
