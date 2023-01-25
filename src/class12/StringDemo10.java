@@ -11,7 +11,6 @@ public class StringDemo10 {
 
         for (int i = 0; i < str.length(); i++) {
             System.out.println(str.charAt(i)+" has the index of: "+i);
-            System.out.println();
         }
     }
 }
