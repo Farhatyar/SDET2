@@ -8,6 +8,7 @@ public class StringDemo10 {
         System.out.println(str.indexOf('J'));
 
         System.out.println("*****************");
+        System.out.println("*****************");
 
         for (int i = 0; i < str.length(); i++) {
             System.out.println(str.charAt(i)+" has the index of: "+i);
