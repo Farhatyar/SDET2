@@ -2,6 +2,7 @@ package class11;
 
 public class CatTester {
     public static void main(String[] args) {
+
         //creating an object from the Cat class
         Cat omidsCat= new Cat();
 
