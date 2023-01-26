@@ -36,5 +36,6 @@ public class StringDemo7 {
 
         //contains
         System.out.println(str.contains("java"));
+
     }
 }
