@@ -1,5 +1,7 @@
 package class9;
 
+import java.util.Arrays;
+
 public class Arrays8 {
     public static void main(String[] args) {
 
