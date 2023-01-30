@@ -1,6 +1,6 @@
 package class14;
 
-public class Math {
+public class Mathematics {
 
     //write a method that takes 2 int numbers add them and show the results on console
 

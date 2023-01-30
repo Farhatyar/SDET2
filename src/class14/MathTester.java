@@ -3,7 +3,7 @@ package class14;
 public class MathTester {
     public static void main(String[] args) {
 
-        Math obj=new Math();
+        Mathematics obj=new Mathematics();
 
         obj.addTwoNumbers(10,10);
         obj.multiplyNumbers(2,3,5);
